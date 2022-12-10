@@ -1,0 +1,13 @@
+/external/googletest
+/bin
+/lib
+/.idea
+/.vs
+/out
+/CMakeSettings.json
+/cmake-build-*
+/build-*
+*.user
+*.autosave
+*.exe
+*.~*
